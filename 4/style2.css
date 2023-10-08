@@ -1,0 +1,57 @@
+*{
+    background-color:rgb(194, 230, 228);
+    color:#1A5D1A;
+  }
+  body{
+    border:10px solid #5a0070;
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100vh;
+  }
+  .loginpage{
+    text-align: center;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .butscolor{
+    color: white;
+  }
+  input[type=text]{
+    color:rgb(167, 21, 53);
+  }
+  
+  input[type=password]{
+    color:rgb(172, 19, 19);
+  }
+  .LB{
+    padding: 20px 40px;
+    color:white;
+    background-color:L#521a5d;
+    font-size:17px;
+    border:1px solid #5d561a;
+    cursor: pointer;
+    border-radius: 50px;
+  }
+  .buts{
+  
+  }
+  button{
+    border-radius: 3px;
+    color: whitesmoke;
+    background-color:#df1313;
+    padding:15px 30px;
+    border-radius: 50px;
+  }
+  button:hover{
+    color:#1709db;
+    background-color:whitesmoke;
+    cursor: #eff5ef;
+  }
+  label{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
